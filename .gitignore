@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+/pos
+/pos.exe
+/results.csv
+/coverage.out
